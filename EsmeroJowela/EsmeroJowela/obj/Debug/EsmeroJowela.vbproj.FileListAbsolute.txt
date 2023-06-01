@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\EsmeroJowela\EsmeroJowela\bin\Debug\EsmeroJowela.exe.config
+C:\Users\PC\source\repos\EsmeroJowela\EsmeroJowela\bin\Debug\EsmeroJowela.exe
+C:\Users\PC\source\repos\EsmeroJowela\EsmeroJowela\bin\Debug\EsmeroJowela.pdb
+C:\Users\PC\source\repos\EsmeroJowela\EsmeroJowela\bin\Debug\EsmeroJowela.xml
+C:\Users\PC\source\repos\EsmeroJowela\EsmeroJowela\obj\Debug\EsmeroJowela.vbproj.AssemblyReference.cache
+C:\Users\PC\source\repos\EsmeroJowela\EsmeroJowela\obj\Debug\EsmeroJowela.Form1.resources
+C:\Users\PC\source\repos\EsmeroJowela\EsmeroJowela\obj\Debug\EsmeroJowela.Form2.resources
+C:\Users\PC\source\repos\EsmeroJowela\EsmeroJowela\obj\Debug\EsmeroJowela.Resources.resources
+C:\Users\PC\source\repos\EsmeroJowela\EsmeroJowela\obj\Debug\EsmeroJowela.vbproj.GenerateResource.cache
+C:\Users\PC\source\repos\EsmeroJowela\EsmeroJowela\obj\Debug\EsmeroJowela.vbproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\EsmeroJowela\EsmeroJowela\obj\Debug\EsmeroJowela.exe
+C:\Users\PC\source\repos\EsmeroJowela\EsmeroJowela\obj\Debug\EsmeroJowela.xml
+C:\Users\PC\source\repos\EsmeroJowela\EsmeroJowela\obj\Debug\EsmeroJowela.pdb
